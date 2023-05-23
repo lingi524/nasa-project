@@ -8,6 +8,7 @@ As a part of Zero to Masterys Node.js course we're creating a launchpad for NASA
 
 ## 📚 Learnings
 
-Node.js
-Backend architecture
-Backend and Frontend interactions
+Node.js <br>
+Backend architecture <br>
+Backend and Frontend interactions <br>
+DevOps techniques
